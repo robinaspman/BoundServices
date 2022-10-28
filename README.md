@@ -1,1 +1,1 @@
-Learning how to use services and observing the lifecycle through log.i.
+Learning how to use services while observing the lifecycle.
